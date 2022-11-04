@@ -1,2 +1,2 @@
 # Pingi-Pingi
-A program that pings a site/ip
+ A program to check if you have internet 
